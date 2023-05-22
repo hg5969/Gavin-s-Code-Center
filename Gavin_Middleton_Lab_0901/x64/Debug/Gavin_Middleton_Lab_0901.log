@@ -1,0 +1,4 @@
+﻿  Gavin_Middleton_Lab_0901.cpp
+C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_Lab_0901\Gavin_Middleton_Lab_0901.cpp(19,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_Lab_0901\Gavin_Middleton_Lab_0901.cpp(24,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Gavin_Middleton_Lab_0901.vcxproj -> C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_Lab_0901\x64\Debug\Gavin_Middleton_Lab_0901.exe
