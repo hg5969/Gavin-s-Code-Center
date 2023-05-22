@@ -1,0 +1,7 @@
+﻿  Circle.cpp
+C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_Lab_0401\Circle.cpp(15,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Cylinder.cpp
+C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_Lab_0401\Cylinder.cpp(16,43): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_Lab_0401\Cylinder.cpp(20,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Gavin_Middleton_Lab_0401.vcxproj -> C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_Lab_0401\x64\Debug\Gavin_Middleton_Lab_0401.exe
