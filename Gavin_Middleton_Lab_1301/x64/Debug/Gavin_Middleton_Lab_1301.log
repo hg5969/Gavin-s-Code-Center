@@ -1,0 +1,4 @@
+﻿  Gavin_Middleton_Lab_1301.cpp
+C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_Lab_1301\Gavin_Middleton_Lab_1301.cpp(63,27): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_Lab_1301\Gavin_Middleton_Lab_1301.cpp(75,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Gavin_Middleton_Lab_1301.vcxproj -> C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_Lab_1301\x64\Debug\Gavin_Middleton_Lab_1301.exe
