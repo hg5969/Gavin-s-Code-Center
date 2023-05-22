@@ -1,0 +1,8 @@
+﻿  Gavin_Middleton_0202.cpp
+C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_0202\Gavin_Middleton_0202.cpp(20,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_0202\Gavin_Middleton_0202.cpp(21,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_0202\Gavin_Middleton_0202.cpp(40,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_0202\Gavin_Middleton_0202.cpp(46,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CircleStr.cpp
+  Generating Code...
+  Gavin_Middleton_0202.vcxproj -> C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_0202\x64\Debug\Gavin_Middleton_0202.exe
