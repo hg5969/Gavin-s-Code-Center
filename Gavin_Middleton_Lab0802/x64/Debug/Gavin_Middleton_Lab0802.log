@@ -1,0 +1,9 @@
+﻿  Edge.cpp
+  Edge_E.cpp
+C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_Lab0802\Edge_E.cpp(8,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Edge_M.cpp
+C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_Lab0802\Edge_M.cpp(8,48): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Gavin_Middleton_Lab0802.cpp
+  Point2D.cpp
+  Generating Code...
+  Gavin_Middleton_Lab0802.vcxproj -> C:\Users\gjmid\OneDrive\Desktop\W23LabsC++\Gavin_Middleton_Lab0802\x64\Debug\Gavin_Middleton_Lab0802.exe
